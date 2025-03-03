@@ -1,4 +1,2 @@
 User-agent: *
 Disallow:
-
-Sitemap: https://paronwaja77.github.io/sitemap.xml
